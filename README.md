@@ -12,6 +12,4 @@ A beginner-friendly bioinformatics pipeline that:
 ## How to Run
 
 ```bash
-pip install -r requirements.txt
-cd src
-python pipeline.py
+python apicheck.py
